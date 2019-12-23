@@ -1,0 +1,3 @@
+C:/Users/Michael/CLionProjects/Game-Mode/cmake-build-debug/CMakeFiles/Game_Mode.dir
+C:/Users/Michael/CLionProjects/Game-Mode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Michael/CLionProjects/Game-Mode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

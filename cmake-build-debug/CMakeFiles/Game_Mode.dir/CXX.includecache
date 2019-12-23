@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Michael/CLionProjects/Game-Mode/main.cpp
+iostream
+-
+string
+-
+cstdio
+-
+cstdlib
+-
+io.h
+-
+fstream
+-
+
